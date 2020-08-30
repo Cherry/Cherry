@@ -5,3 +5,5 @@ Hi, I'm James! I'm CTO and Co-Founder of [Nodecraft](https://nodecraft.com/). I'
 Find me online 🌍:
 - [Twitter](https://twitter.com/CherryJimbo/)
 - [Blog](https://jross.me)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherry&show_icons=true" alt="Cherry's GitHub Profile Stats"></p>
