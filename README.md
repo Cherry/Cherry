@@ -6,4 +6,4 @@ Find me online 🌍:
 - [Twitter](https://twitter.com/CherryJimbo/)
 - [Blog](https://jross.me)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherry&show_icons=true" alt="Cherry's GitHub Profile Stats"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherry&show_icons=true&theme=dark" alt="Cherry's GitHub Profile Stats"></p>
